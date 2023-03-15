@@ -2,10 +2,7 @@ JSON Form for Bootstrap 4
 =========
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true)
 ![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg?longCache=true)
-![Release](https://img.shields.io/github/release/jsonform/jsonform.svg)
-![NPM: released](https://img.shields.io/npm/v/jsonform.svg)
 
 The JSON Form library is a JavaScript client-side library that takes a
 structured data model defined using [JSON Schema](http://json-schema.org/) as

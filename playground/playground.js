@@ -120,7 +120,7 @@ $('document').ready(function () {
         type: 'ace',
         aceMode: 'json',
         width: '100%',
-        height: '' + (window.innerHeight - 140) + 'px',
+        height: '' + (window.innerHeight - 240) + 'px',
         notitle: true,
         onChange: function () {
           generateForm();
